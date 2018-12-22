@@ -56,8 +56,8 @@ return [
     */
 
     'from' => [
-        'address' => env('MAIL_FROM_ADDRESS', 'demo@paragoncoin.com'),
-        'name' => env('MAIL_FROM_NAME', 'ParagonCoin'),
+        'address' => env('MAIL_FROM_ADDRESS', 'demo@thccoin.com'),
+        'name' => env('MAIL_FROM_NAME', 'THCCoin'),
     ],
 
     /*
