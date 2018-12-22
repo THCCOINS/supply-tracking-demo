@@ -4,7 +4,7 @@
 [Rinkeby](https://rinkeby.etherscan.io)
 
 ## User Guide
-[Help](https://supply-dev.paragoncoin.com/help.pdf)
+[Help](https://github.com/THCCOINS/supply-tracking-demo/blob/master/help/help.pdf)
 
 ## Smart contracts
 1. [Main Contract](https://github.com/THCCOINS/supply-tracking-smart-contracts/blob/master/contracts/main_contract.sol)
