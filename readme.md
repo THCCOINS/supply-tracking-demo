@@ -7,11 +7,11 @@
 [Help](https://supply-dev.paragoncoin.com/help.pdf)
 
 ## Smart contracts
-1. [Main Contract](https://rinkeby.etherscan.io/address/0xDe42daff1AbA2Dca864311d514F253f461B8c11e#readContract)
-2. [Growers Storage](https://rinkeby.etherscan.io/address/0x76632F7072b2e4286B60cD9B7261C2c5735Ab02C#readContract)
-3. [Raw Materials Storage](https://rinkeby.etherscan.io/address/0x4739fc192792417C9fe942dF007FAA38d57b8552#readContract)
-4. [Labs Storage](https://rinkeby.etherscan.io/address/0x3CD2a486042910521Ee6E583dAa3ce16AD004fD7#readContract)
-5. [Expertises Storage](https://rinkeby.etherscan.io/address/0x1dB56C6dC20D0A0B8586f6f65f6aDBCF19cbcdD5#readContract)
+1. [Main Contract](https://github.com/THCCOINS/supply-tracking-smart-contracts/blob/master/contracts/main_contract.sol)
+2. [Growers Storage](https://github.com/THCCOINS/supply-tracking-smart-contracts/blob/master/contracts/growers_storage.sol)
+3. [Raw Materials Storage](https://github.com/THCCOINS/supply-tracking-smart-contracts/blob/master/contracts/raw_materials_storage.sol)
+4. [Labs Storage](https://github.com/THCCOINS/supply-tracking-smart-contracts/blob/master/contracts/labs_storage.sol)
+5. [Expertises Storage](https://github.com/THCCOINS/supply-tracking-smart-contracts/blob/master/contracts/expertises_storage.sol)
 
 ## Basic chain models
 1. **Farmer**
