@@ -9,7 +9,7 @@
 <head>
     <meta charset="utf-8">
     <meta name="csrf-token" content="{!! csrf_token() !!}" />
-    <link rel="icon" type="image/png" href="https://paragoncoin.com/favicon/favicon-16x16.png">
+    <link rel="icon" type="image/png" href="/favicon/favicon-16x16.png">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     <title>{{ config('app.name') }}</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">

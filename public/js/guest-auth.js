@@ -76,7 +76,7 @@ module.exports = __webpack_require__(48);
 /***/ 48:
 /***/ (function(module, exports) {
 
-throw new Error("Module build failed: Error: ENOENT: no such file or directory, open '/Users/olexandr/projects/paragoncoin_demo/resources/assets/js/guest-auth.js'");
+throw new Error("Module build failed: Error: ENOENT: no such file or directory, open '/Users/poreilly/code/supply-tracking-demo/resources/assets/js/guest-auth.js'");
 
 /***/ })
 
