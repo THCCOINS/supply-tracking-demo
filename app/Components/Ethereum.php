@@ -78,7 +78,7 @@ class Ethereum
             if (isset($data['error'])) {
                 $code = $data['error']['code'] ?? '';
                 $message = $data['error']['message'] ?? '';
-                Log::error("ETH API - code: $code, method: $method, message: $message");
+                Log::error("ETH API - code: $code, method: $method, message: $message, EXTRA DEBUG:" . json_encode($method) . json_encode($params) . " ");
             } else {
                 Log::info("ETH API called {$method}");
             }
