@@ -26,8 +26,8 @@
         <aside class="asideMenu">
             <div class="heading">
                 <h3 class="title">
-                    <span class="logoPart">ST</span>
-                    <span class="namePart">SUPPLY TRACKING</span>
+                    <span class="logoPart">THC COIN</span>
+                    <span class="namePart">DEMO</span>
                 </h3>
             </div>
             <ul class="menu">
